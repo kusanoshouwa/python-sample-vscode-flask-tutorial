@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '87c317b9-7b2c-468c-a9ff-efc32b8ba185'
   
   # Web app name
-  webAppName: 'kusanoDevWebApp'
+  webAppName: 'kusadev'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
